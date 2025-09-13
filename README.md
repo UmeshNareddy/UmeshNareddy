@@ -52,10 +52,10 @@
 
 ## 📜 Certifications  
 
-<img src="certifications/aws-devops.png" width="150"/> 
-<img src="certifications/aws-solutions.png" width="150"/> 
-<img src="certifications/azure-devops.png" width="150"/> 
-<img src="certifications/azure-developer.png" width="150"/> 
+<img src="certifications/aws-devops.png" width="120"/> 
+<img src="certifications/aws-solutions.png" width="120"/> 
+<img src="certifications/azure-devops.png" width="120"/> 
+<img src="certifications/azure-developer.png" width="120"/> 
 
 
 ---
