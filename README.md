@@ -49,22 +49,19 @@
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
 ---
-
-## 📜 Certifications  
-
+## 📜 Certifications
+<p align="center">
 <img src="certifications/aws-devops.png" width="120"/> 
 <img src="certifications/aws-solutions.png" width="120"/> 
 <img src="certifications/azure-devops.png" width="120"/> 
 <img src="certifications/azure-developer.png" width="120"/> 
-
+</p>
 
 ---
-
-## 🏆 Open Source & Projects  
-
+## 🏆 Open Source & Projects
 🔹 Contributed to **DevOps, IaC, and Automation** projects  
 🔹 Building **AI-powered trading bots** with Alpaca & IBKR APIs  
-🔹 Published **academic research** on **IoT, Big Data, and Generative AI**  
+🔹 Published **academic research** on **IoT, Big Data, and Generative AI**
 
 📂 Explore my work here: [GitHub Repositories](https://github.com/UmeshNareddy)  
 
