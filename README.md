@@ -52,12 +52,12 @@
 
 ## 📜 Certifications  
 
-<p align="center">
-  <img src="https://github.com/UmeshTeja_Nareddy/certifications/blob/main/azure-developer-associate-600x600.png" alt="Azure Developer Associate" width="120"/>
-  <img src="https://github.com/UmeshTeja_Nareddy/certifications/blob/main/azure-devops-engineer-expert-certwizard.png" alt="Azure DevOps Engineer Expert" width="120"/>
-  <img src="https://github.com/UmeshTeja_Nareddy/certifications/blob/main/aws-devops.png" alt="AWS DevOps Engineer Professional" width="120"/>
-  <img src="https://github.com/UmeshTeja_Nareddy/certifications/blob/main/aws-solutions.png" alt="AWS Solutions Architect Associate" width="120"/>
-</p>
+### 📜 Certifications
+<img src="certifications/aws-devops.png" width="150"/> 
+<img src="certifications/aws-solutions.png" width="150"/> 
+<img src="certifications/azure-devops.png" width="150"/> 
+<img src="certifications/azure-developer.png" width="150"/> 
+
 
 ---
 
