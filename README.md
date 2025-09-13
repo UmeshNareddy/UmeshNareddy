@@ -52,7 +52,6 @@
 
 ## 📜 Certifications  
 
-### 📜 Certifications
 <img src="certifications/aws-devops.png" width="150"/> 
 <img src="certifications/aws-solutions.png" width="150"/> 
 <img src="certifications/azure-devops.png" width="150"/> 
@@ -85,7 +84,7 @@
 
 💼 **Open to:** Cloud DevOps, SRE, and AI/ML Engineering roles  
 🌐 **Portfolio:** [UmeshNareddy.github.io](https://UmeshNareddy.github.io)  
-🔗 **LinkedIn:** [linkedin.com/in/umesh-nareddy](https://www.linkedin.com/in/umesh-nareddy/)  
+🔗 **LinkedIn:** [linkedin.com/in/umesh-teja-nareddy](https://www.linkedin.com/in/umesh-teja-nareddy/)  
 💻 **GitHub:** [github.com/UmeshNareddy](https://github.com/UmeshNareddy)  
 
 🚀 *Follow me on GitHub — let’s innovate together!* 🎯  
